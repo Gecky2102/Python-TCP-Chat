@@ -64,9 +64,9 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 ## ⭐ Star the Project
 If you find this project useful or interesting, feel free to give it a ⭐ (star) on GitHub! Your support helps to keep the project alive and encourages future improvements.
 
-[Star the repository here](#)
+[Star the repository here](https://github.com/Gecky2102/Python-TCP-Chat)
 
 ---
 
-Made with ❤️ by Gecky
+Made with ❤️ by [Gecky](https://www.geckydev.me)
 
